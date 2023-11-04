@@ -1,6 +1,6 @@
 # 电子灵堂
 
-[在线演示 Demo](https://asoulfucker.github.io/Lingtang_OnInternet/)
+[在线演示 Demo](https://uknownperson.github.io/YaoYufan_OnInternet/)
 
 #### 优点
  - 样式简单，一目了然。
